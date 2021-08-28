@@ -1,2 +1,2 @@
 # Area_Calculator_py
-Calculadora de áreas desenvolvida com python puro.
+Uma calculadora feita para calcular a área de diversas figuras planas como paralelogramas, trapézios.
